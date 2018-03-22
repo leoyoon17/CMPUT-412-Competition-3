@@ -7,7 +7,6 @@ To download the necessary files:
 git clone https://github.com/leoyoon17/CMPUT-412-Competition-3
 
 ```
-
 Note: Don't forget to connect the usb cables from the Kobuki base, the
 Asus Xtion Pro Live, and the logitech controller to your computer! (or ssh)
 
@@ -28,7 +27,7 @@ On the third terminal:
 * $ roslaunch turtlebot_teleop logitech.launch
 
 On the fourth terminal:
-* $ roslaunch turtlebot_navigation amcl_demo.launch map_file:= <complete directory to map.yaml file>
+* $ roslaunch turtlebot_navigation amcl_demo.launch map_file:= [complete directory to map.yaml file]
 
 * Example:
 * $ roslaunch turtlebot_navigation amcl_demo.launch map_file:=file:///home/jaeyeon/Documents/School/CMPUT412/Competition%203/map.yaml

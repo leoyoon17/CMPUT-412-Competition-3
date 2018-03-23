@@ -7,7 +7,7 @@ Generally, the objective of this competition was to apply gained knowledge of ro
 
 Mapping concepts were applied by utilizing Simultaneous Localization and Mapping (SLAM) via GMapping to construct a map of a designated area of the second floor of the Computing Science Center at the University of Alberta.
 
-[map](https://github.com/leoyoon17/CMPUT-412-Competition-3/blob/master/map.pgm)
+[map](https://github.com/leoyoon17/CMPUT-412-Competition-3/blob/master/map.png)
 GMapping generated map of the second floor.
 
 Through the construction of a relatively accurate map, our robot was to navigate around pylons placed in a rectangular formation (where the placement was an unknown) as fast as possible.

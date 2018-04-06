@@ -69,7 +69,7 @@ Results
 
  Fortunately, our robot performed well during the competition, as our team placed first. This was mostly thanks to our robot not re-localizing after every turn. Also, as we were given three opportunities, we were able to adjust our waypoints to perform two laps around the course.
 
-We can see the results of the final round where we were able to successfully complete two laps around the course ![here](https://youtu.be/PyomZwF-0Do) 
+We can see the results of the final round where we were able to successfully complete two laps around the course [here](https://youtu.be/PyomZwF-0Do) 
 
 Discussion
 ==========
